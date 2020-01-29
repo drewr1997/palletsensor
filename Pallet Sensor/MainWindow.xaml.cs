@@ -8,6 +8,7 @@ using Emgu.CV.Structure;
 using System;
 
 // Author: Andrew Ross
+
 // Student ID: 16511676
 
 namespace Pallet_Sensor
